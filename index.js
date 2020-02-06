@@ -1,1 +1,2 @@
-let cachorro = "Toby"
+let cachorro = "auau";
+let gato = "miau";
